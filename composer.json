@@ -33,5 +33,5 @@
   "config": {
     "sort-packages": true
   },
-  "abandoned": "spryker/authentication-merchant-portal-gui"
+  "abandoned": true
 }
